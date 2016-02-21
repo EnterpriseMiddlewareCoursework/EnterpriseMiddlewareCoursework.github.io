@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ENERGY-SIM</title>
+    <title>Enterprise Middleware Coursework</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://www.energy-sim.org/</link>
-    <atom:link href="http://www.energy-sim.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Feb 2016 21:58:55 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Feb 2016 21:58:55 +0000</lastBuildDate>
+    <link>http://enterprisemiddlewarecoursework.github.io/</link>
+    <atom:link href="http://enterprisemiddlewarecoursework.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 21 Feb 2016 10:45:14 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 10:45:14 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 01 Jan 2016 21:14:18 +0000</pubDate>
-        <link>http://www.energy-sim.org/jekyll/update/2016/01/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://www.energy-sim.org/jekyll/update/2016/01/01/welcome-to-jekyll.html</guid>
+        <link>http://enterprisemiddlewarecoursework.github.io/jekyll/update/2016/01/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://enterprisemiddlewarecoursework.github.io/jekyll/update/2016/01/01/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
