@@ -35,6 +35,11 @@ This paper describes the development and delivery of a course, in close collabor
 ## Open Courseware
 Here we make all tools and teaching materials available to the open source community, for delivery at other institutions. The open source courseware repository is available <a href="https://github.com/NewcastleComputingScience/enterprise-middleware-coursework">here</a>.
 
+## SIGCSE 2016
+We look forward to presenting at SIGCSE 2016 in Memphis this year. 
+
+Please join us in **L13-14** at **08:45am** on **Saturday 5th March**.
+
 ## Publications
 Forshaw, M., Solaiman, E., McGee, O., Firth, H., Robinson, P., & Emerson, R. (2016). Meeting Graduate Employability Needs through Open-source Collaboration with Industry. In <em>47th ACM Technical Symposium on Computer Science Education (SIGCSE)</em>, 2016.
 
